@@ -8,8 +8,8 @@
     "text": "Conor Gaughan"
   },
   "text": {
-    "more": "Nodes in the network are all members of Prof Paul Musgrave\u0027s Political Science feed on Blue Sky Social. Nodes are connected by which users they follow or which users follow them. ",
-    "intro": "The network of political scientists on Blue Sky Social. ",
+    "more": "Nodes in the network are all members of Prof Paul Musgrave\u0027s Political Science feed on Blue Sky Social. Nodes are connected by which users they follow or which users follow them. \n\n\n\n",
+    "intro": "The network of political scientists on Blue Sky Social.                    ",
     "title": "Polisky Network "
   },
   "legend": {
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 30
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.1,
-      "minEdgeSize": 0.1,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 10
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
